@@ -2,6 +2,7 @@
 En este repositoro se muestran los archivos para realizar el flow2 del curso de NodeRed de Codigo IoT. Este curso es visto en los cursos y Diplomados de Internet de las cosas disponibles en edu.codigoiot.com
 
 # Introducción
+
 El flow 2 es el segundo ejercicio a realizar en el curso de NodeRed. Este ejecicio consiste en darle un formato legible para humanos al timestamp y mostrar la fecha en la sección debug.
 
 # Material Necesario
@@ -15,6 +16,7 @@ El flow 2 es el segundo ejercicio a realizar en el curso de NodeRed. Este ejecic
     -NodeRed
 
 # Material de Referencia
+
 En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigoiot.com que te permitirán realiar las configuraciones necesarias
 
 +Instalación de Virtual Box y Ubuntu 20.04
@@ -24,6 +26,7 @@ En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigo
 +Introducción a NodeRed
 
 #Instrucciones
+
 Requisitos previos
 
 Para que este flow funcione, debes cumplir con los siguientes requisitos previos
@@ -49,11 +52,13 @@ Instrucciones de operación
 Para observar el resutlado de este flow, sólo es necesario abrir la pestaña Debug.
 
 # Resultados
+
 A continuación puede verse una vista previa del resultado de este flow.
 
 ![Captura de pantalla de 2022-08-30 12-31-09](https://user-images.githubusercontent.com/111372195/187504672-faedf7cb-5722-4e6f-9b03-316e65245923.png)
 
 # Evidencias
+
 YouTube
 
 # Créditos
