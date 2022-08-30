@@ -25,7 +25,7 @@ En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigo
 
 +Introducción a NodeRed
 
-#Instrucciones
+# Instrucciones
 
 Requisitos previos
 
