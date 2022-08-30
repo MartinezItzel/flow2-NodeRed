@@ -32,6 +32,7 @@ Para que este flow funcione, debes cumplir con los siguientes requisitos previos
 
 2.Instalación de NodeRed. La instalación se realiza por NPM. Al momento de la creación de este contenido, se usó la versión 3.0.2
 
+
 Instrucciones de preparación del entorno
 
 Para ejecutar este flow, es necesario lo siguiente
@@ -41,6 +42,7 @@ Para ejecutar este flow, es necesario lo siguiente
 2.Importar el flow del repositorio
 
 3.Hacer clic en el boton Deploy
+
 
 Instrucciones de operación
 
